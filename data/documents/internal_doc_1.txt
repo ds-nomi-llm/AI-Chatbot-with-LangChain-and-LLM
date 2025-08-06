@@ -1,9 +1,0 @@
-Title: Onboarding Process for AI Chatbot Deployment
-
-1. Setup local environment with LangChain, FAISS, and OpenAI API keys.
-2. Load PDF documents and internal docs using LangChain DocumentLoaders.
-3. Preprocess and chunk documents using RecursiveCharacterTextSplitter.
-4. Create vector embeddings using OpenAIEmbedding or HuggingFaceEmbeddings.
-5. Store in FAISS or Chroma for retrieval.
-6. Implement conversational chain using RetrievalQA or ConversationalRetrievalChain.
-7. Deploy using FastAPI with streamlit frontend.
