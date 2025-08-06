@@ -1,0 +1,19 @@
+# Core
+langchain
+langchain-openai
+faiss-cpu
+python-dotenv
+fastapi
+uvicorn
+pydantic
+requests
+
+# For local PDFs/texts
+unstructured
+pypdf
+
+# For frontend interaction
+streamlit
+
+# Optional (dev tools)
+jupyter
